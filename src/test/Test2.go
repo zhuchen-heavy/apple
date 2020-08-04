@@ -29,7 +29,7 @@ func main() {
 
 	/**
 	 	1：若变量声明未被使用；若包导入未被使用，则编译器会报错
-		.\test2.go:3:8: imported and not used: "fmt"
+		.\Test2.go:3:8: imported and not used: "fmt"
 		强制要求程序员删除。
 	*/
 	var i int = 3
