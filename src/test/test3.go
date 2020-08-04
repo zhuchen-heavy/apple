@@ -50,6 +50,21 @@ func main() {
 	test1()
 	fmt.Println("-----------------")
 
+	test2()
+}
+
+func test2() {
+	const (
+		i = 1 << iota // 左移0位
+		j = 3 << iota // 左移1位
+		k             // 左移2位
+		l             // 左移3位
+	)
+	fmt.Println("i=", i)
+	fmt.Println("j=", j)
+	fmt.Println("k=", k)
+	fmt.Println("l=", l)
+
 }
 
 /**
