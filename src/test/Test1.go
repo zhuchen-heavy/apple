@@ -1,4 +1,5 @@
 /**
+ * 均是参考：https://www.runoob.com/go/go-tutorial.html
  * package main表示一个可独立执行的程序，每个 Go 应用程序都包含一个名为 main 的包。
  */
 package main
