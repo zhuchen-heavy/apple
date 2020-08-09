@@ -10,9 +10,9 @@
 &emsp;中文版的标准库：https://studygolang.com/static/pkgdoc/main.html  
 &emsp;极力推荐：https://github.com/astaxie/gopkg   
 &emsp;https://books.studygolang.com/The-Golang-Standard-Library-by-Example/  
-4：知乎上Go的学习路程指导：
-&emsp;https://www.zhihu.com/question/23486344  
-&emsp;https://learnku.com/go/t/23429/a-guide-to-the-go-language-learning-route  
+4：知乎上Go的学习路程指导：  
+&emsp;https://www.zhihu.com/question/23486344   
+&emsp;https://learnku.com/go/t/23429/a-guide-to-the-go-language-learning-route    
 ### 2：工程说明
 ###### 本工程是学习过程中写的Go的示例代码  
 1：包介绍  
