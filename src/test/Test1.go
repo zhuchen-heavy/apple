@@ -34,5 +34,4 @@ func main() {
 	// var f string = "roob" 等价于 f := "roob"
 	var f string = "roob"
 	fmt.Println(f)
-
 }
